@@ -1,0 +1,14 @@
+{
+  "name": "KITA Token List",
+  "logoURI": "https://raw.githubusercontent.com/romvnow/kita-tokenlist/main/Untitled-20250913-140410-2285.png",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xb214D48C279c9b1b7B9f2EC9B59a79FDE3ddB67a",
+      "symbol": "KTR",
+      "name": "KITA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/romvnow/kita-tokenlist/main/Untitled-20250913-140410-2285.png"
+    }
+  ]
+}
